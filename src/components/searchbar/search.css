@@ -1,0 +1,16 @@
+.searchbar{
+    margin-top: 20px;
+    text-align: center;
+}
+.searchinput{
+    padding: 6px;
+    border-radius: 8px;
+    border: 2px solid palevioletred;
+}
+.search-icon-button{
+    background-color: white;
+    color: palevioletred;
+    margin-left: 3px;
+    border: 0px;
+    font-size: 20px;
+}

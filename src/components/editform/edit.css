@@ -1,0 +1,24 @@
+.edithead {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.editproductdetails {
+    padding: 30px;
+    background-image: url(./images/white-3d-pedestal-background-with-realistic-palm-leaves-for-cosmetic-product-presentation-or-fashion-magazine-free-vector.jpg);
+}
+
+.edform {
+    border: 2px solid white;
+    border-radius: 30px;
+    padding: 30px 100px;
+    background-color: hsla(0, 0%, 10%, .1);
+    backdrop-filter: blur(8px);
+    color: whitesmoke;
+}
+
+
+
+
+

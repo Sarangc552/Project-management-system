@@ -1,0 +1,71 @@
+.modall{
+    text-align: center;
+    background-color: hsla(0, 0%, 10%, .1);
+    /* border: 2px solid whitesmoke; */
+    backdrop-filter: blur(8px);
+    padding: 5px 0px;
+    
+}
+.modalbody{
+    /* display: flex; */
+    background-color: rgb(39, 6, 87);
+    color: white;
+
+}
+.modalimg{
+    border: 0px;
+    background-color: white;
+}
+.modalcontents{
+    margin-top: 10px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.modalbtn {
+    margin: 10px 0px;
+    width: 300px;
+    padding: 10px;
+    border-radius: 8px;
+    border: 0px;
+}
+.tabledata{
+    margin: 20px;
+    
+}
+
+
+.viewid {
+    font-size: 16px;
+    cursor: pointer;
+    color: blue;
+    /* background-color: rgb(60,60,183); */
+    margin-right: 3px;
+}
+
+.deleteid {
+    font-size: 16px;
+    cursor: pointer;
+    color: red;
+    /* background-color: red; */
+    margin-right: 3px;
+    
+
+}
+
+.editid {
+    font-size: 16px;
+    cursor: pointer;
+    color: green;
+    /* background-color: green; */
+}
+
+.additem {
+    margin: 10px 50px 20px 0px;
+    float: right;
+    width: 150px;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: red;
+    border: 0px;
+}

@@ -1,0 +1,23 @@
+.nav{
+    background-color:rgb(225, 124, 156);
+}
+.navtittle{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+.logout{
+    font-size: 20px;
+    margin-left: 5px;
+}
+.logoutmodal{
+    background-color: hsla(0, 0%, 10%, .1);
+    /* border: 2px solid whitesmoke; */
+    backdrop-filter: blur(8px);
+    padding-top: 120px;
+}
+.iconnavbar{
+    font-size: 40px;
+    margin-right: 15px;
+    color: white;
+}
